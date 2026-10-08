@@ -1,0 +1,10 @@
+﻿fastapi==0.111.0
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+pyodbc==5.1.0
+pyspark==3.5.1
+spacy==3.7.4
+shap==0.45.1
+hccinfhir==0.4.0
+pytest==8.2.0
+python-dotenv==1.0.1
